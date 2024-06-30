@@ -20,6 +20,6 @@ Supports:
 
 ![](/Screenshot_20231030_005417_Fennec.png)
 
-(yes, there's an irony in a discission of a different fedi client as my only screenshot - for some reason it's the only screenshot I have, and I'm no longer running my own instance to test it with)
+(yes, there's an irony in a discussion of a different fedi client as my only screenshot - for some reason it's the only screenshot I have, and I'm no longer running my own instance to test it with)
 
 Icons from [material-symbols](https://github.com/marella/material-symbols/tree/main/material-symbols), Apache-2.0
